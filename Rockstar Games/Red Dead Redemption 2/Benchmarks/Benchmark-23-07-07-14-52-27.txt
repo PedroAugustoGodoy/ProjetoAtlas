@@ -1,0 +1,60 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 37.312321, 45.299496, 40.594864
+Pass 1, 42.230267, 47.343552, 44.707935
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Test 0, 22.075300, 26.800800, 24.633657
+Test 1, 21.122200, 23.679699, 22.367393
+
+Frames under 16ms (for 60fps): 
+Test 0: 0/932 frames (0.00%)
+Test 1: 0/343 frames (0.00%)
+
+Frames under 33ms (for 30fps): 
+Test 0: 932/932 frames (100.00%)
+Test 1: 343/343 frames (100.00%)
+
+Percentiles in ms for pass 0
+50%,	24.00
+75%,	24.00
+80%,	25.00
+85%,	25.00
+90%,	25.00
+91%,	25.00
+92%,	25.00
+93%,	25.00
+94%,	25.00
+95%,	25.00
+96%,	25.00
+97%,	25.00
+98%,	25.00
+99%,	25.00
+
+Percentiles in ms for pass 1
+50%,	22.00
+75%,	22.00
+80%,	22.00
+85%,	22.00
+90%,	22.00
+91%,	22.00
+92%,	22.00
+93%,	22.00
+94%,	22.00
+95%,	22.00
+96%,	22.00
+97%,	23.00
+98%,	23.00
+99%,	23.00
+
+=== SYSTEM ===
+CPU:       Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz
+	Physical Cores: 8
+	Logical Cores: 16
+
+GPU: NVIDIA NVIDIA GeForce GTX 950	API: VULKAN	VRAM: 2047 MB
+
+System RAM: 16370 MB
+
+
+=== SETTINGS ===
+

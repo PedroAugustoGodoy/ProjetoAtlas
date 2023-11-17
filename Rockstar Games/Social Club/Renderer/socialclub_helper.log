@@ -1,0 +1,48 @@
+[2023-09-29 10:48:32.505] [  9332] [2B5C] ===================================
+[2023-09-29 10:48:32.506] [  9332] [2B5C] Browser process opened from pid: 2856
+[2023-09-29 10:48:32.507] [  9332] [2B5C] Language: pt
+[2023-09-29 10:48:32.509] [  9332] [2B5C] Connecting to IPC channel: rgsc_ipc_b28
+[2023-09-29 10:48:32.511] [  9332] [2B5C] Product version: RockstarGames/2.2.0.6/1.0.1491.18/rdr2/Steam
+[2023-09-29 10:48:32.614] [  9332] [2B5C] OnChannelConnected - rgsc_ipc_b28 (remoteProcessId 2856)
+[2023-09-29 10:48:34.779] [  9332] [2B5C] Renderer[1][576] IPC channel response: connect to 'rgsc_ipc_b28_channel_1'
+[2023-09-29 10:48:34.796] [  9332] [2B5C] Renderer[1][576] Connecting to IPC channel: rgsc_ipc_b28_channel_1
+[2023-09-29 10:48:34.797] [  9332] [2B5C] Renderer[1][576] OnChannelConnected - rgsc_ipc_b28_channel_1 (remoteProcessId 2856)
+[2023-09-29 11:22:56.350] [  9332] [2B5C] OnChannelError() - rgsc_ipc_b28
+[2023-09-29 11:22:56.351] [  9332] [2B5C] Shutdown requested
+[2023-09-29 11:22:56.358] [  9332] [2B5C] All windows now closed, requesting cleanup.
+[2023-09-29 11:22:56.378] [  9332] [2B5C] Posting quit to main message loop.
+[2023-09-29 11:22:56.379] [  9332] [2B5C] MainMessageLoopInternalPump - Quit requested
+[2023-09-29 11:22:56.656] [  9332] [2B5C] MainMessageLoopInternalPump - Preparing to shutdown
+[2023-09-29 11:22:59.737] [  9332] [2B5C] MainMessageLoopInternalPump - Shutdown
+[2023-10-01 18:28:50.091] [ 13360] [1EDC] ===================================
+[2023-10-01 18:28:50.093] [ 13360] [1EDC] Browser process opened from pid: 12932
+[2023-10-01 18:28:50.094] [ 13360] [1EDC] Language: pt
+[2023-10-01 18:28:50.096] [ 13360] [1EDC] Connecting to IPC channel: rgsc_ipc_3284
+[2023-10-01 18:28:50.098] [ 13360] [1EDC] Product version: RockstarGames/2.2.0.6/1.0.1491.18/rdr2/Steam
+[2023-10-01 18:28:50.202] [ 13360] [1EDC] OnChannelConnected - rgsc_ipc_3284 (remoteProcessId 12932)
+[2023-10-01 18:28:51.915] [ 13360] [1EDC] Renderer[1][12656] IPC channel response: connect to 'rgsc_ipc_3284_channel_1'
+[2023-10-01 18:28:51.916] [ 13360] [1EDC] Renderer[1][12656] Connecting to IPC channel: rgsc_ipc_3284_channel_1
+[2023-10-01 18:28:51.916] [ 13360] [1EDC] Renderer[1][12656] OnChannelConnected - rgsc_ipc_3284_channel_1 (remoteProcessId 12932)
+[2023-10-01 18:40:57.402] [ 13360] [1EDC] OnChannelError() - rgsc_ipc_3284
+[2023-10-01 18:40:57.403] [ 13360] [1EDC] Shutdown requested
+[2023-10-01 18:40:57.406] [ 13360] [1EDC] All windows now closed, requesting cleanup.
+[2023-10-01 18:40:57.411] [ 13360] [1EDC] Posting quit to main message loop.
+[2023-10-01 18:40:57.412] [ 13360] [1EDC] MainMessageLoopInternalPump - Quit requested
+[2023-10-01 18:40:57.448] [ 13360] [1EDC] MainMessageLoopInternalPump - Preparing to shutdown
+[2023-10-01 18:41:00.740] [ 13360] [1EDC] MainMessageLoopInternalPump - Shutdown
+[2023-10-27 14:16:54.281] [ 14256] [44E0] ===================================
+[2023-10-27 14:16:54.283] [ 14256] [44E0] Browser process opened from pid: 13220
+[2023-10-27 14:16:54.284] [ 14256] [44E0] Language: pt
+[2023-10-27 14:16:54.285] [ 14256] [44E0] Connecting to IPC channel: rgsc_ipc_33a4
+[2023-10-27 14:16:54.289] [ 14256] [44E0] Product version: RockstarGames/2.2.0.6/1.0.1491.18/rdr2/Steam
+[2023-10-27 14:16:54.414] [ 14256] [44E0] OnChannelConnected - rgsc_ipc_33a4 (remoteProcessId 13220)
+[2023-10-27 14:16:56.354] [ 14256] [44E0] Renderer[1][17220] IPC channel response: connect to 'rgsc_ipc_33a4_channel_1'
+[2023-10-27 14:16:56.355] [ 14256] [44E0] Renderer[1][17220] Connecting to IPC channel: rgsc_ipc_33a4_channel_1
+[2023-10-27 14:16:56.356] [ 14256] [44E0] Renderer[1][17220] OnChannelConnected - rgsc_ipc_33a4_channel_1 (remoteProcessId 13220)
+[2023-10-27 14:23:52.337] [ 14256] [44E0] OnChannelError() - rgsc_ipc_33a4
+[2023-10-27 14:23:52.337] [ 14256] [44E0] Shutdown requested
+[2023-10-27 14:23:52.341] [ 14256] [44E0] All windows now closed, requesting cleanup.
+[2023-10-27 14:23:52.345] [ 14256] [44E0] Posting quit to main message loop.
+[2023-10-27 14:23:52.346] [ 14256] [44E0] MainMessageLoopInternalPump - Quit requested
+[2023-10-27 14:23:52.368] [ 14256] [44E0] MainMessageLoopInternalPump - Preparing to shutdown
+[2023-10-27 14:23:55.590] [ 14256] [44E0] MainMessageLoopInternalPump - Shutdown

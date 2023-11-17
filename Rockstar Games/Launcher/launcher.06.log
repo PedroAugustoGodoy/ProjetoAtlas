@@ -1,0 +1,126 @@
+[2023-09-15 14:25:35.610] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-09-15 14:25:35.635] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-09-15 14:25:35.657] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2023-09-15 14:25:35.686] [DISPLAY] [Main ] [minmode] Running in Steam mode
+[2023-09-15 14:25:35.686] [DISPLAY] [Main ] [minmode] Steam App Id: 1174180
+[2023-09-15 14:25:35.686] [DISPLAY] [Main ] [minmode] Title Id: rdr2
+[2023-09-15 14:25:35.686] [DISPLAY] [Main ] [minmode] Location: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2023-09-15 14:25:35.687] [DISPLAY] [Main ] [launcher] Opening log file.
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -steamAppId=1174180 @args.txt
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main] Build type: FMB
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main] Version: 1.0.77.1590
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main] Parameters:
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main]     -steamAppId=1174180
+[2023-09-15 14:25:35.756] [DISPLAY] [Main ] [main]     @args.txt
+[2023-09-15 14:25:35.876] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2023-09-15 14:25:35.876] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2023-09-15 14:25:35.917] [DISPLAY] [Main ] [svc] Service version: 1.0.77.1590 (1.0.77.1590)
+[2023-09-15 14:25:36.233] [DISPLAY] [Main ] [fileutils] Version: 2.1.9.8 | 1.0.77.1590 | FFP
+[2023-09-15 14:25:36.321] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2023-09-15 14:25:36.750] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2023-09-15 14:25:37.181] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-09-15 14:25:37.252] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2023-09-15 14:25:37.395] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2023-09-15 14:25:37.395] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2023-09-15 14:25:37.452] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json'
+[2023-09-15 14:25:37.494] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json' (status: 0/200)
+[2023-09-15 14:25:37.732] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2023-09-15 14:25:37.732] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2023-09-15 14:25:38.697] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2023-09-15 14:25:38.700] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2023-09-15 14:25:38.700] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2023-09-15 14:25:38.713] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2023-09-15 14:25:38.754] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2023-09-15 14:25:38.754] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2023-09-15 14:25:38.785] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.1.9.8)
+[2023-09-15 14:25:38.785] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2023-09-15 14:25:43.067] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2023-09-15 14:25:43.071] [DISPLAY] [Main ] [external] Notifying Social Club UI about external launch...
+[2023-09-15 14:25:43.071] [DISPLAY] [Admin] [external] Setting up Steam title...
+[2023-09-15 14:25:43.071] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2023-09-15 14:25:43.071] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2023-09-15 14:25:47.453] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2023-09-15 14:25:47.453] [DISPLAY] [Main ] [launcher] User 'Pedropotee' is now signed in
+[2023-09-15 14:25:47.598] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2023-09-15 14:25:47.598] [DISPLAY] [Main ] [external] Preparing to update/launch...
+[2023-09-15 14:25:47.598] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2023-09-15 14:25:47.598] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2023-09-15 14:25:47.598] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2023-09-15 14:25:47.599] [DISPLAY] [Main ] [launcher] Time to start up: 12435 ms
+[2023-09-15 14:25:47.607] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 96,96
+[2023-09-15 14:25:47.607] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.00
+[2023-09-15 14:25:47.610] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 0,45 (1280 x 600)
+[2023-09-15 14:25:47.634] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-09-15 14:25:47.673] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2023-09-15 14:25:47.777] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2023-09-15 14:25:48.118] [DISPLAY] [Main ] [scuicallbacks] Setting updated
+[2023-09-15 14:25:48.118] [DISPLAY] [Main ] [scuicallbacks] Launch requested
+[2023-09-15 14:25:48.118] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: rdr2, 
+[2023-09-15 14:25:48.118] [DISPLAY] [Main ] [external] Attempting external title launch...
+[2023-09-15 14:25:48.755] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2023-09-15 14:25:48.759] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2023-09-15 14:25:48.759] [DISPLAY] [Admin] [external] Attempting Steam launch. User is 'Quintoberto Neves'
+[2023-09-15 14:25:48.930] [DISPLAY] [ 9552] [gamelaunch] RGL is up to date (current: 1.0.77.1590, minimum: 1.0.33.319)
+[2023-09-15 14:25:48.935] [DISPLAY] [ 9552] [gamelaunch] Red Dead Redemption 2 is up to date (current: 1.0.1491.18, minimum: 1.0.1355.18)
+[2023-09-15 14:25:50.662] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2023-09-15 14:25:50.663] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2023-09-15 14:25:50.663] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2023-09-15 14:25:51.665] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2023-09-15 14:25:54.601] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'rdr2'
+[2023-09-15 14:25:54.618] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'rdr2'
+[2023-09-15 14:25:54.650] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'rdr2' = enabled
+[2023-09-15 14:25:54.650] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for title 'rdr2'
+[2023-09-15 14:25:55.590] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'rdr2'
+[2023-09-15 14:25:55.590] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for title 'rdr2'
+[2023-09-15 14:25:55.607] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for title 'rdr2'
+[2023-09-15 14:25:55.607] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for title 'rdr2'
+[2023-09-15 14:25:55.624] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for title 'rdr2'
+[2023-09-15 14:25:55.625] [DISPLAY] [Main ] [cloudsaveop] Getting update files for title 'rdr2'
+[2023-09-15 14:25:55.641] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for title 'rdr2'
+[2023-09-15 14:25:55.641] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for title 'rdr2'
+[2023-09-15 14:25:55.657] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for title 'rdr2'
+[2023-09-15 14:25:55.657] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for title 'rdr2'
+[2023-09-15 14:25:55.677] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'rdr2'
+[2023-09-15 14:25:55.755] [DISPLAY] [net2 ] [audio] Valid Audio Device: true
+[2023-09-15 14:25:56.914] [DISPLAY] [ 9552] [gamelaunch] Launching game...
+[2023-09-15 14:25:56.914] [DISPLAY] [ 9552] [gamelaunch]  Path: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe
+[2023-09-15 14:25:56.914] [DISPLAY] [ 9552] [gamelaunch]  Command Line: "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe" -skipPatcherCheck @args.txt @commandline.txt -enableCrashpad -useSteam -steamAppId=1174180 -scCommerceProvider=4
+[2023-09-15 14:25:56.914] [DISPLAY] [ 9552] [gamelaunch]  Working Directory: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2023-09-15 14:28:58.697] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-09-15 14:28:58.714] [DISPLAY] [Main ] [sysinfo] Drive C:\ has 62.56 GB free, 476.30 GB total
+[2023-09-15 14:28:58.942] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-09-15 14:28:58.957] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-09-15 14:28:58.974] [DISPLAY] [Main ] [sysinfo] Drive C:\ has 62.56 GB free, 476.30 GB total
+[2023-09-15 14:28:59.018] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-09-15 15:19:36.981] [DISPLAY] [ 9552] [gamelaunch] Game exited with code 0x0 (0)
+[2023-09-15 15:19:36.981] [DISPLAY] [ 9552] [crashdetection] Reading game exit file...
+[2023-09-15 15:19:36.982] [DISPLAY] [ 9552] [crashdetection] Updating exit code: 0x00000000
+[2023-09-15 15:19:36.982] [WARNING] [ 9552] [crashdetection] Not found: ERROR_FILE_HASH
+[2023-09-15 15:19:36.982] [DISPLAY] [ 9552] [crashdetection] No additional error information found.
+[2023-09-15 15:19:36.982] [WARNING] [ 9552] [crashdetection] Not found: ERROR_MESSAGE
+[2023-09-15 15:19:36.982] [DISPLAY] [ 9552] [crashdetection] No additional error message found.
+[2023-09-15 15:19:36.982] [DISPLAY] [ 9552] [crashdetection] Deleting game exit file...
+[2023-09-15 15:19:36.983] [DISPLAY] [ 9552] [crashdetection] Exit code 0x0 indicates a clean game shutdown
+[2023-09-15 15:19:37.048] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'rdr2'
+[2023-09-15 15:19:37.071] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'rdr2'
+[2023-09-15 15:19:37.075] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'rdr2' = enabled
+[2023-09-15 15:19:37.075] [DISPLAY] [Main ] [cloudsaveop] Title access token was missing or expired, refreshing access for title 'rdr2'
+[2023-09-15 15:19:37.077] [DISPLAY] [Main ] [cloudsaveop] Retrieving access token for title 'rdr2' (13)
+[2023-09-15 15:19:37.964] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for title 'rdr2'
+[2023-09-15 15:19:38.894] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'rdr2'
+[2023-09-15 15:19:38.894] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for title 'rdr2'
+[2023-09-15 15:19:38.910] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for title 'rdr2'
+[2023-09-15 15:19:38.910] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for title 'rdr2'
+[2023-09-15 15:19:42.423] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for title 'rdr2'
+[2023-09-15 15:19:42.423] [DISPLAY] [Main ] [cloudsaveop] Getting update files for title 'rdr2'
+[2023-09-15 15:19:42.439] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for title 'rdr2'
+[2023-09-15 15:19:42.439] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for title 'rdr2'
+[2023-09-15 15:19:42.457] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for title 'rdr2'
+[2023-09-15 15:19:42.457] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for title 'rdr2'
+[2023-09-15 15:19:42.475] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'rdr2'
+[2023-09-15 15:19:43.412] [DISPLAY] [ 9552] [launcher] Shutdown requested! Forced: false
+[2023-09-15 15:19:43.435] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2023-09-15 15:19:44.653] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2023-09-15 15:19:44.757] [DISPLAY] [Main ] [svc] Stopping the background service.

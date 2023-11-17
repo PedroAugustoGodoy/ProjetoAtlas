@@ -1,0 +1,60 @@
+[2023-10-27 14:12:03.858] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-10-27 14:12:03.900] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-10-27 14:12:03.922] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2023-10-27 14:12:03.953] [DISPLAY] [Main ] [minmode] Running in Steam mode
+[2023-10-27 14:12:03.953] [DISPLAY] [Main ] [minmode] Steam App Id: 1174180
+[2023-10-27 14:12:03.953] [DISPLAY] [Main ] [minmode] Title Id: rdr2
+[2023-10-27 14:12:03.953] [DISPLAY] [Main ] [minmode] Location: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2023-10-27 14:12:03.953] [DISPLAY] [Main ] [launcher] Opening log file.
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -steamAppId=1174180 @args.txt
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main] Build type: FMB
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main] Version: 1.0.78.1620
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main] Parameters:
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main]     -steamAppId=1174180
+[2023-10-27 14:12:03.975] [DISPLAY] [Main ] [main]     @args.txt
+[2023-10-27 14:12:04.018] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2023-10-27 14:12:04.018] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2023-10-27 14:12:04.046] [DISPLAY] [Main ] [svc] Service version: 1.0.78.1620 (1.0.78.1620)
+[2023-10-27 14:12:04.247] [DISPLAY] [Main ] [fileutils] Version: 2.2.0.6 | 1.0.78.1620 | FFP
+[2023-10-27 14:12:04.352] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2023-10-27 14:12:04.562] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2023-10-27 14:12:05.041] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-10-27 14:12:05.110] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2023-10-27 14:12:05.202] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2023-10-27 14:12:05.202] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2023-10-27 14:12:05.255] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json'
+[2023-10-27 14:12:05.300] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json' (status: 0/200)
+[2023-10-27 14:12:05.375] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2023-10-27 14:12:05.375] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2023-10-27 14:12:06.149] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2023-10-27 14:12:06.149] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2023-10-27 14:12:06.149] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2023-10-27 14:12:06.167] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetBuildManifestFullNoAuth?branchAccessToken=BRANCHACCESS token="YVY8ANCcCj+NpBWgYMIhV7n/vs8k5Tzjnov+TAi0C1XvNevOSpZrFXQieX9tl2dWNDw29UPWwTxDnt7XpsDrKw==",signature="z+U43yiZ1sA+C5tbZaVlPlxEvAqVVPtpiqeGtp2i9Cg="'
+[2023-10-27 14:12:07.183] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetBuildManifestFullNoAuth?branchAccessToken=BRANCHACCESS token="YVY8ANCcCj+NpBWgYMIhV7n/vs8k5Tzjnov+TAi0C1XvNevOSpZrFXQieX9tl2dWNDw29UPWwTxDnt7XpsDrKw==",signature="z+U43yiZ1sA+C5tbZaVlPlxEvAqVVPtpiqeGtp2i9Cg="' (status: 0/200)
+[2023-10-27 14:12:07.188] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: 0.0 KB / 158.84 MB
+[2023-10-27 14:12:07.188] [DISPLAY] [Workr] [selfupdate] Updating launcher...
+[2023-10-27 14:12:07.303] [DISPLAY] [Admin] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/RetrieveFileChunkNoAuthMulti'
+[2023-10-27 14:12:08.086] [DISPLAY] [Admin] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/RetrieveFileChunkNoAuthMulti' (status: 0/200)
+[2023-10-27 14:12:22.661] [DISPLAY] [Workr] [downloadprogress] Dl: D|166557072|15|9|0|0
+[2023-10-27 14:12:22.707] [DISPLAY] [Workr] [titleupdater] Launcher needs to restart to be made up-to-date.
+[2023-10-27 14:12:22.707] [DISPLAY] [Workr] [titleupdater] Update of Rockstar Games Launcher succeeded; needs restart to complete.
+[2023-10-27 14:12:22.751] [DISPLAY] [Workr] [selfupdate] Applying downloaded self-update...
+[2023-10-27 14:12:22.965] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.78.1620 -> 1.0.79.1653
+[2023-10-27 14:12:22.965] [DISPLAY] [Workr] [title] Updated version via [sfv] for title Rockstar Games Launcher : 1.0.79.1653
+[2023-10-27 14:12:24.638] [DISPLAY] [Workr] [title] Current version for title [pv] Rockstar Games Launcher : 1.0.78.1620
+[2023-10-27 14:12:24.655] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.79.1653 -> 1.0.78.1620
+[2023-10-27 14:12:24.856] [WARNING] [bgsvc] [svc_transactionqueue] Transaction failed: 74
+[2023-10-27 14:12:24.870] [ ERROR ] [Workr] [svc_chunk] Failed to delete: C:\Program Files\Rockstar Games\Launcher\RockstarService.exe.old
+[2023-10-27 14:12:24.890] [WARNING] [bgsvc] [svc_transactionqueue] Transaction failed: 75
+[2023-10-27 14:12:24.904] [ ERROR ] [Workr] [svc_chunk] Failed to delete: C:\Program Files\Rockstar Games\Launcher\Launcher.exe.old
+[2023-10-27 14:12:25.625] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.78.1620 -> 1.0.79.1653
+[2023-10-27 14:12:25.625] [DISPLAY] [Workr] [title] Updated version via [sfv] for title Rockstar Games Launcher : 1.0.79.1653
+[2023-10-27 14:12:25.646] [DISPLAY] [Workr] [selfupdate] Self-update applied, need to restart.
+[2023-10-27 14:12:25.655] [DISPLAY] [Workr] [launcher] Restarting to apply self-update...
+[2023-10-27 14:12:25.655] [DISPLAY] [Workr] [lifecycle] Setting to restart after exit.
+[2023-10-27 14:12:25.655] [DISPLAY] [Workr] [launcher] Shutdown requested! Forced: false
+[2023-10-27 14:12:26.022] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2023-10-27 14:12:26.101] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2023-10-27 14:12:26.159] [DISPLAY] [Main ] [svc] Stopping the background service.

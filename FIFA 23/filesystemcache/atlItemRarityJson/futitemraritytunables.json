@@ -1,0 +1,6724 @@
+{
+  "version": 1,
+  "rarities": [
+    {
+      "colorArray": [
+        2826775,
+        13015170,
+        16302762,
+        2500906,
+        11646391,
+        15659763,
+        4471330,
+        13481065,
+        16772019
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "shineArray": [
+        15907230,
+        14344161,
+        15456404
+      ],
+      "animatedLayer": 0,
+      "version": 8,
+      "id": 0,
+      "name": "ÂóSàÃl\u0010£Ê¨\u001f\u0017\u0005",
+      "levels": true,
+      "colorsPerLevel": 3,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "929f3299-a61e-4ff1-abda-7663f1c835db",
+      "smallItemCRC": [
+        774125018,
+        2281656064,
+        3422428845
+      ],
+      "collapsedItemCRC": [
+        2339615745,
+        3323266065,
+        3626144157
+      ],
+      "largeItemCRC": [
+        4294647914,
+        912855135,
+        2877094264
+      ],
+      "jumboItemCRC": [
+        303013668,
+        3587643752,
+        4247233572
+      ]
+    },
+    {
+      "colorArray": [
+        3811095,
+        13740687,
+        10973780,
+        2500906,
+        13360097,
+        10395552,
+        4602124,
+        15521393,
+        10191155
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "shineArray": [
+        16693907,
+        14610164,
+        16508550
+      ],
+      "animatedLayer": 1,
+      "version": 10,
+      "id": 1,
+      "name": "%Y²[V5\u001eqÉr¦çÅæ",
+      "levels": true,
+      "colorsPerLevel": 3,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "7535d322-3347-4123-a800-cf93bcd5d786",
+      "smallItemCRC": [
+        2552829786,
+        2596615634,
+        3897140145
+      ],
+      "collapsedItemCRC": [
+        1114646424,
+        70396437,
+        342676117
+      ],
+      "largeItemCRC": [
+        4168048507,
+        711163889,
+        3276109471
+      ],
+      "jumboItemCRC": [
+        2413439257,
+        443461128,
+        2767827490
+      ]
+    },
+    {
+      "version": 0,
+      "id": 2,
+      "name": "LOCK",
+      "type": 0,
+      "levels": false,
+      "bigHead": false,
+      "smallItemCRC": [
+        3530476585
+      ]
+    },
+    {
+      "colorArray": [
+        15448719,
+        1249036,
+        8541242,
+        15921907,
+        1249036,
+        10526880,
+        16769676,
+        1249036,
+        7364400
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15844251,
+        16382457,
+        16447403
+      ],
+      "animatedLayer": 1,
+      "version": 12,
+      "id": 3,
+      "name": "m\u001c<Ó",
+      "levels": true,
+      "colorsPerLevel": 3,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1588762800,
+      "guid": "39536884-f4a8-4ac1-8962-09ad897ee4ea",
+      "smallItemCRC": [
+        3095080171,
+        4083787885,
+        2381934084
+      ],
+      "collapsedItemCRC": [
+        2779976096,
+        3427011970,
+        3098045035
+      ],
+      "largeItemCRC": [
+        2699052668,
+        206209079,
+        1254550211
+      ],
+      "jumboItemCRC": [
+        1751289839,
+        3561231392,
+        1649095344
+      ]
+    },
+    {
+      "colorArray": [
+        15718261,
+        1185363,
+        7364400
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        11912191
+      ],
+      "version": 1,
+      "id": 5,
+      "name": "ÅÍL\\",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667319000,
+      "guid": "91821805-9b62-4604-a010-55036734baac",
+      "smallItemCRC": [
+        1340424121
+      ],
+      "collapsedItemCRC": [
+        1902803823
+      ],
+      "largeItemCRC": [
+        1576372835
+      ],
+      "jumboItemCRC": [
+        1589981064
+      ]
+    },
+    {
+      "colorArray": [
+        15921906,
+        14840605,
+        16772892
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16766330
+      ],
+      "version": 3,
+      "id": 8,
+      "name": "À}W\u0011*èn#âF",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1587761760,
+      "guid": "d7afea18-2465-438b-a423-6cb60bd7f325",
+      "smallItemCRC": [
+        1211599068
+      ],
+      "collapsedItemCRC": [
+        869329251
+      ],
+      "largeItemCRC": [
+        3629789255
+      ],
+      "jumboItemCRC": [
+        2068446995
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        901047,
+        11272178
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        9961461
+      ],
+      "version": 5,
+      "id": 10,
+      "name": "]y\u0014©\u0017\u0006é",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1558566000,
+      "guid": "db0fdc29-58e8-4e43-bb1f-e3920e747b84",
+      "smallItemCRC": [
+        2214582882
+      ],
+      "collapsedItemCRC": [
+        878562870
+      ],
+      "largeItemCRC": [
+        3000605570
+      ],
+      "jumboItemCRC": [
+        2745854212
+      ]
+    },
+    {
+      "colorArray": [
+        16772752,
+        530227,
+        5104895
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        11001855
+      ],
+      "version": 3,
+      "id": 11,
+      "name": "þÃb?",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667317920,
+      "guid": "aa8c366c-dd56-442e-96f7-fc927f94a318",
+      "smallItemCRC": [
+        1778809516
+      ],
+      "collapsedItemCRC": [
+        1910251108
+      ],
+      "largeItemCRC": [
+        3253520830
+      ],
+      "jumboItemCRC": [
+        1225681501
+      ]
+    },
+    {
+      "colorArray": [
+        5260331,
+        16382457,
+        10324311
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "shineArray": [
+        14998730
+      ],
+      "version": 9,
+      "id": 12,
+      "name": "oä\u0013Yo",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "26a75c17-3c46-4bc8-ae53-42e8c60efd92",
+      "smallItemCRC": [
+        3975225312
+      ],
+      "collapsedItemCRC": [
+        672676936
+      ],
+      "largeItemCRC": [
+        1869282367
+      ],
+      "jumboItemCRC": [
+        3650133056
+      ]
+    },
+    {
+      "colorArray": [
+        16767893,
+        12724836,
+        11370332
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16759014
+      ],
+      "version": 1,
+      "id": 16,
+      "name": "Ùa(S4\u001a",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1668522180,
+      "guid": "9f34cd7c-1a71-499b-9373-e453748b652d",
+      "smallItemCRC": [
+        3686053925
+      ],
+      "collapsedItemCRC": [
+        3940482637
+      ],
+      "largeItemCRC": [
+        1872531187
+      ],
+      "jumboItemCRC": [
+        3281919147
+      ]
+    },
+    {
+      "colorArray": [
+        14594934,
+        4918798,
+        9006662,
+        15921907,
+        4918798,
+        10526880,
+        16769676,
+        4918798,
+        12031834
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15716780,
+        14212320,
+        16115111
+      ],
+      "version": 6,
+      "id": 18,
+      "name": "ÿM!g½\u000egÅF%\n®\u0001",
+      "levels": true,
+      "colorsPerLevel": 3,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1558652400,
+      "guid": "bc05602a-ed36-4129-9a14-605defcc45de",
+      "smallItemCRC": [
+        1860452572,
+        3305039456,
+        2610551693
+      ],
+      "collapsedItemCRC": [
+        708020493,
+        2280935756,
+        1381912144
+      ],
+      "largeItemCRC": [
+        3522423685,
+        3071717742,
+        124005461
+      ],
+      "jumboItemCRC": [
+        2989141297,
+        3312161077,
+        2464470495
+      ]
+    },
+    {
+      "colorArray": [
+        12908368,
+        1116502,
+        15341413
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8594943
+      ],
+      "animatedLayer": 1,
+      "version": 8,
+      "id": 21,
+      "name": "\u001ez",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1558652400,
+      "guid": "512edfc4-a195-4145-8a9b-ced3c2d59272",
+      "smallItemCRC": [
+        2181902899
+      ],
+      "collapsedItemCRC": [
+        1498777773
+      ],
+      "largeItemCRC": [
+        540929710
+      ],
+      "jumboItemCRC": [
+        886814551
+      ]
+    },
+    {
+      "colorArray": [
+        9829375,
+        6821664,
+        11940734
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        13499903
+      ],
+      "version": 3,
+      "id": 22,
+      "name": "AU^ÚÌû\u001cæ",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1654646520,
+      "guid": "13140c93-98a2-43d4-ad20-00f382a1078c",
+      "smallItemCRC": [
+        4205128133
+      ],
+      "collapsedItemCRC": [
+        1340723371
+      ],
+      "largeItemCRC": [
+        784587915
+      ],
+      "jumboItemCRC": [
+        3088822963
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        1644825,
+        9408399
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16119285
+      ],
+      "version": 2,
+      "id": 24,
+      "name": "SC¬Ù¡\u0000\u0006£",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": true,
+      "embargoTime": 1662764400,
+      "guid": "1522c7bc-8153-44e0-b1ea-a361d094da68",
+      "smallItemCRC": [
+        235614130
+      ],
+      "collapsedItemCRC": [
+        1285540695
+      ],
+      "largeItemCRC": [
+        2418205052
+      ],
+      "jumboItemCRC": [
+        2580422524
+      ]
+    },
+    {
+      "colorArray": [
+        65526,
+        3020088,
+        15728895
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        13082367
+      ],
+      "version": 1,
+      "id": 25,
+      "name": "Ê·N½mcjní$£h|",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1664950440,
+      "guid": "8fd92a9d-0205-4a0f-8304-e61a1db9e2c0",
+      "smallItemCRC": [
+        2666431283
+      ],
+      "collapsedItemCRC": [
+        4064201942
+      ],
+      "largeItemCRC": [
+        64451678
+      ],
+      "jumboItemCRC": [
+        220014716
+      ]
+    },
+    {
+      "colorArray": [
+        11597388,
+        6100209,
+        8204020,
+        13323263
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "shineArray": [
+        14469879
+      ],
+      "version": 1,
+      "id": 28,
+      "name": "Bä×MÖ\u0015ÄäæßÂ3D",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1684496700,
+      "guid": "16ab831e-b097-42cf-96a0-c6888b7dccc3",
+      "smallItemCRC": [
+        3808267801
+      ],
+      "collapsedItemCRC": [
+        2875010759
+      ],
+      "largeItemCRC": [
+        25610051
+      ],
+      "jumboItemCRC": [
+        705534027
+      ]
+    },
+    {
+      "version": 0,
+      "id": 29,
+      "name": "RARITY_29",
+      "type": 0,
+      "levels": false,
+      "bigHead": false,
+      "smallItemCRC": [
+        2930614233
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        15146578,
+        5961692
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15793919
+      ],
+      "version": 1,
+      "id": 30,
+      "name": "ÿ¼M;F1¾çI§",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667315400,
+      "guid": "b92ae86d-792f-43ca-8ffb-28de3a1a8368",
+      "smallItemCRC": [
+        148257025
+      ],
+      "collapsedItemCRC": [
+        2278155595
+      ],
+      "largeItemCRC": [
+        145283090
+      ],
+      "jumboItemCRC": [
+        4260361566
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        1644825,
+        9408399
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16119285
+      ],
+      "version": 17,
+      "id": 42,
+      "name": "[ü¹«é\u001b'Ëb3\n$S$",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 0,
+      "guid": "0bdfa8f4-f4ab-4e69-8f27-60466d146528",
+      "smallItemCRC": [
+        2045744542
+      ],
+      "collapsedItemCRC": [
+        1881213334
+      ],
+      "largeItemCRC": [
+        3819231263
+      ],
+      "jumboItemCRC": [
+        1397912783
+      ]
+    },
+    {
+      "colorArray": [
+        16448250,
+        5053905,
+        389375
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        11924478
+      ],
+      "version": 11,
+      "id": 43,
+      "name": "\u0012\u000b\b¯s\u0014\u0013¦",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 0,
+      "guid": "42445ce2-2c51-43ea-a4d9-f074cae2c504",
+      "smallItemCRC": [
+        1289838871
+      ],
+      "collapsedItemCRC": [
+        2829564154
+      ],
+      "largeItemCRC": [
+        2040285491
+      ],
+      "jumboItemCRC": [
+        4193723855
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        16738560
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        10461087
+      ],
+      "version": 6,
+      "id": 45,
+      "name": "\u0000º(\u0015Í0\u0011ö\u0005Û\u000eÅÚ°M ©Ü$zÜ\b",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1586390400,
+      "guid": "55ccfc69-3588-4563-9975-ba2e89bfd12a",
+      "smallItemCRC": [
+        3272349241
+      ],
+      "collapsedItemCRC": [
+        2893254181
+      ],
+      "largeItemCRC": [
+        2858615681
+      ],
+      "jumboItemCRC": [
+        2594339569
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        16738560
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16757337
+      ],
+      "version": 8,
+      "id": 46,
+      "name": "\u0015¢·Î\u0012o\u000e~Å6ä&\\\u001f¨®Ë\u0019o\u0005",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1591660800,
+      "guid": "50f7e882-572e-492b-80dd-64abda62d008",
+      "smallItemCRC": [
+        4152398873
+      ],
+      "collapsedItemCRC": [
+        2571035567
+      ],
+      "largeItemCRC": [
+        2306212340
+      ],
+      "jumboItemCRC": [
+        747722960
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        2683,
+        75
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        0
+      ],
+      "shineArray": [
+        987135
+      ],
+      "version": 4,
+      "id": 47,
+      "name": "ÍÏªÎ@\u0007öQ·¼i\u001d\u0085nÆÁªÓF\u0006",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 0,
+      "guid": "ce858ee7-9e09-48c5-a50e-fbf9285ad02b",
+      "smallItemCRC": [
+        149443394
+      ],
+      "collapsedItemCRC": [
+        2902668009
+      ],
+      "largeItemCRC": [
+        1083757449
+      ],
+      "jumboItemCRC": [
+        1871223064
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        2683,
+        6257407
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        627156
+      ],
+      "version": 7,
+      "id": 48,
+      "name": "ª\n#Ò\u001eÖ\u0002ùæÜ\u000fVÕÏ¶\u0010#Í\u000b",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 0,
+      "guid": "e942629f-4e9f-4db7-b583-4313d8dd808a",
+      "smallItemCRC": [
+        3845013714
+      ],
+      "collapsedItemCRC": [
+        1405701282
+      ],
+      "largeItemCRC": [
+        3512414946
+      ],
+      "jumboItemCRC": [
+        1608593352
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        266586,
+        6257407
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        467891
+      ],
+      "version": 5,
+      "id": 49,
+      "name": "hBÍÉU\"ÂÚ}7\u0015{¡Ã$Xf¸ù[\u0005÷ú",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1586392800,
+      "guid": "3d07df8c-e916-4aa3-b70d-5e7a15d2e368",
+      "smallItemCRC": [
+        3668027370
+      ],
+      "collapsedItemCRC": [
+        979731021
+      ],
+      "largeItemCRC": [
+        2495925779
+      ],
+      "jumboItemCRC": [
+        2339636235
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        1118304,
+        6257407,
+        1118306,
+        1118305
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
+        3,
+        0
+      ],
+      "shineArray": [
+        9276671
+      ],
+      "version": 6,
+      "id": 50,
+      "name": "ÆÒ\u0013îÚ\u0003`ø%^L\u0004/#ÚÜ\u0010ÿß",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1591574400,
+      "guid": "859acb5e-be93-4c2e-a777-110ddd5b7b6c",
+      "smallItemCRC": [
+        3530043779
+      ],
+      "collapsedItemCRC": [
+        694547300
+      ],
+      "largeItemCRC": [
+        1152145015
+      ],
+      "jumboItemCRC": [
+        4223301554
+      ]
+    },
+    {
+      "colorArray": [
+        15921906,
+        2168150,
+        6356934
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        13631472
+      ],
+      "version": 1,
+      "id": 51,
+      "name": "j*ÆúM)ñ\u0017èxÖÆÐ&",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1664371800,
+      "guid": "2c46a789-e12f-48eb-9a37-b814b7bfb554",
+      "smallItemCRC": [
+        3284965566
+      ],
+      "collapsedItemCRC": [
+        4185544317
+      ],
+      "largeItemCRC": [
+        3357378403
+      ],
+      "jumboItemCRC": [
+        3171085984
+      ]
+    },
+    {
+      "colorArray": [
+        15921906,
+        2368548,
+        9014158,
+        6184542
+      ],
+      "expColorIndices": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        1
+      ],
+      "shineArray": [
+        15461355
+      ],
+      "animatedLayer": 0,
+      "version": 8,
+      "id": 52,
+      "name": "è>Ð$H|\f@®4õÅg³ö³Â\u0012ÿ\u0007l\u001e\u0001",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1600893600,
+      "guid": "ab719e69-0d3e-430c-8e67-80a106de93c1",
+      "smallItemCRC": [
+        2360830242
+      ],
+      "collapsedItemCRC": [
+        1359688798
+      ],
+      "largeItemCRC": [
+        3741668536
+      ],
+      "jumboItemCRC": [
+        3305632320
+      ]
+    },
+    {
+      "colorArray": [
+        15921906,
+        2368548,
+        9071428
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15395562
+      ],
+      "animatedLayer": 0,
+      "version": 8,
+      "id": 53,
+      "name": "Ì/O@X\u0000ÙËÞ <k&ë\u000f¾gv:\r",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1600893900,
+      "guid": "8f60cc02-051a-4f95-bdcb-a2bc454e1f47",
+      "smallItemCRC": [
+        1718866501
+      ],
+      "collapsedItemCRC": [
+        1026653265
+      ],
+      "largeItemCRC": [
+        894178497
+      ],
+      "jumboItemCRC": [
+        437972971
+      ]
+    },
+    {
+      "colorArray": [
+        15921906,
+        9136964
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "shineArray": [
+        16048842
+      ],
+      "version": 7,
+      "id": 54,
+      "name": "â\u0007sé\"\u0016\u0002úÙúùe`àÀ,RÖ\u0002+`ø",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1596585300,
+      "guid": "a1483da4-6758-40b5-95da-b5e30705e894",
+      "smallItemCRC": [
+        3273813032
+      ],
+      "collapsedItemCRC": [
+        1394095242
+      ],
+      "largeItemCRC": [
+        1655734239
+      ],
+      "jumboItemCRC": [
+        1154248639
+      ]
+    },
+    {
+      "colorArray": [
+        16774657,
+        823896,
+        130636
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        823641
+      ],
+      "animatedLayer": 2,
+      "version": 3,
+      "id": 56,
+      "name": "¶Û\u001bÕ\u0013\u0010¯",
+      "levels": false,
+      "shell": 1,
+      "bigHead": true,
+      "untradableOnly": false,
+      "hide": false,
+      "vanityOnly": true,
+      "vanitySubTypeIds": [
+        9,
+        10,
+        11,
+        30,
+        500,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "embargoTime": 1622400300,
+      "guid": "def7d392-4f8c-4c25-99ea-11683faebe6e",
+      "smallItemCRC": [
+        229292218
+      ],
+      "collapsedItemCRC": [
+        2368196112
+      ],
+      "largeItemCRC": [
+        1052184235
+      ],
+      "jumboItemCRC": [
+        1216641899
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        264197,
+        14089472
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16777215
+      ],
+      "version": 1,
+      "id": 57,
+      "name": "\u0001ã\u00005[3=¢Wgï$",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1671559200,
+      "guid": "528b6f42-3f5c-4ae2-8207-0b9a5725fd28",
+      "smallItemCRC": [
+        2095451591
+      ],
+      "collapsedItemCRC": [
+        2746679057
+      ],
+      "largeItemCRC": [
+        2192107269
+      ],
+      "jumboItemCRC": [
+        3673452959
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        264197,
+        10790052
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16777215
+      ],
+      "version": 1,
+      "id": 58,
+      "name": "\r¸þ\u001eð>ü",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1671559200,
+      "guid": "5ed0eb89-7a9f-4992-af72-2b611e7e9314",
+      "smallItemCRC": [
+        4067890796
+      ],
+      "collapsedItemCRC": [
+        3641997553
+      ],
+      "largeItemCRC": [
+        986210623
+      ],
+      "jumboItemCRC": [
+        3791044489
+      ]
+    },
+    {
+      "colorArray": [
+        15921906,
+        2368548,
+        14132506
+      ],
+      "expColorIndices": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        1,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        1,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        1,
+        1
+      ],
+      "shineArray": [
+        16772281
+      ],
+      "animatedLayer": 1,
+      "version": 7,
+      "id": 59,
+      "name": " èÈ\u0010\u0000\u0001©æè}Ü<\u001ex¼Åä;/c«",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1596585600,
+      "guid": "ceefa685-554e-43e6-aac8-2ea9587f15e6",
+      "smallItemCRC": [
+        4094142785
+      ],
+      "collapsedItemCRC": [
+        1908774415
+      ],
+      "largeItemCRC": [
+        1879090871
+      ],
+      "jumboItemCRC": [
+        2312518918
+      ]
+    },
+    {
+      "colorArray": [
+        15718261,
+        464479,
+        10655077
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        11912191
+      ],
+      "version": 1,
+      "id": 64,
+      "name": "¸ºI×%\t÷Ø5¯\u0014\u001fÊ\u0017ì¡°SÚL\bê",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667312220,
+      "guid": "ecf51d8e-05c9-46b9-9760-fd555d8652cc",
+      "smallItemCRC": [
+        4168728521
+      ],
+      "collapsedItemCRC": [
+        3995043375
+      ],
+      "largeItemCRC": [
+        1204846337
+      ],
+      "jumboItemCRC": [
+        551031606
+      ]
+    },
+    {
+      "colorArray": [
+        16772752,
+        530227,
+        5104895
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        11721983
+      ],
+      "version": 3,
+      "id": 65,
+      "name": "\u001f\u0012FÇ\u001a¯\"\tìdÅ¤",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667311920,
+      "guid": "4b5d1294-3ae2-4d64-890a-b1d75851fd97",
+      "smallItemCRC": [
+        4117833663
+      ],
+      "collapsedItemCRC": [
+        3115847095
+      ],
+      "largeItemCRC": [
+        3795519386
+      ],
+      "jumboItemCRC": [
+        3709321087
+      ]
+    },
+    {
+      "colorArray": [
+        16119285,
+        12238794,
+        9816,
+        26278
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        0
+      ],
+      "shineArray": [
+        11190502
+      ],
+      "version": 5,
+      "id": 67,
+      "name": "µ1ãðO\u0005",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1587692400,
+      "guid": "e57eceae-d002-49de-85a2-b1938ee23108",
+      "smallItemCRC": [
+        2514504073
+      ],
+      "collapsedItemCRC": [
+        4145259913
+      ],
+      "largeItemCRC": [
+        1286077850
+      ],
+      "jumboItemCRC": [
+        2083562846
+      ]
+    },
+    {
+      "colorArray": [
+        16580352,
+        6230644,
+        11156479
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14374399
+      ],
+      "version": 1,
+      "id": 71,
+      "name": "MÄXj\u001eoÄX(1\u0017ß\u0001V",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667311800,
+      "guid": "c518cae4-1e3f-4a3a-961d-0862439e5305",
+      "smallItemCRC": [
+        3523395909
+      ],
+      "collapsedItemCRC": [
+        4253823205
+      ],
+      "largeItemCRC": [
+        4101359776
+      ],
+      "jumboItemCRC": [
+        3682000050
+      ]
+    },
+    {
+      "colorArray": [
+        15268863,
+        1584187,
+        10834788
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14349055
+      ],
+      "animatedLayer": 1,
+      "version": 5,
+      "id": 72,
+      "name": "Nw72uh,÷\u0010MH",
+      "levels": false,
+      "shell": 2,
+      "bigHead": true,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1614732900,
+      "guid": "02125655-f210-4864-9262-ed283b9e54e8",
+      "smallItemCRC": [
+        4099506843
+      ],
+      "collapsedItemCRC": [
+        3519641668
+      ],
+      "largeItemCRC": [
+        3758307470
+      ],
+      "jumboItemCRC": [
+        49645266
+      ]
+    },
+    {
+      "colorArray": [
+        16314078,
+        1327458,
+        16732940
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15398655
+      ],
+      "version": 1,
+      "id": 76,
+      "name": "PXÿÔ´%k×G÷ñ\u0015Ïóô'",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1664467080,
+      "guid": "161fcedf-87c3-441b-a467-a39e7eaa9dd4",
+      "smallItemCRC": [
+        767897162
+      ],
+      "collapsedItemCRC": [
+        316351754
+      ],
+      "largeItemCRC": [
+        71354476
+      ],
+      "jumboItemCRC": [
+        1831033371
+      ]
+    },
+    {
+      "colorArray": [
+        13499146,
+        1123135,
+        14811162
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15133059
+      ],
+      "version": 5,
+      "id": 79,
+      "name": "Ã:Î3¬\u0019!Éß\u0013",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1585766700,
+      "guid": "93759a7e-8c55-48ae-aaf8-33ab972d3e5f",
+      "smallItemCRC": [
+        4119916009
+      ],
+      "collapsedItemCRC": [
+        2142986965
+      ],
+      "largeItemCRC": [
+        1031622731
+      ],
+      "jumboItemCRC": [
+        1503602873
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        4736582,
+        3750201,
+        15896077
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "shineArray": [
+        11447467
+      ],
+      "version": 2,
+      "id": 85,
+      "name": "0ÊÉ\u0012µikñ¹]phcÓ¼-",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1680558480,
+      "guid": "ce42a5b9-7acc-493f-98cd-3c1e1bbc2bb6",
+      "smallItemCRC": [
+        1703600218
+      ],
+      "collapsedItemCRC": [
+        176454576
+      ],
+      "largeItemCRC": [
+        1575702706
+      ],
+      "jumboItemCRC": [
+        4283842591
+      ]
+    },
+    {
+      "colorArray": [
+        16777182,
+        400162,
+        10939903
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "shineArray": [
+        15006463
+      ],
+      "version": 6,
+      "id": 86,
+      "name": "Þâ\u001d!\"\u001f!ÓÓöl\u0017",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1587694500,
+      "guid": "8ead496c-0253-40f3-9f9f-0b76addb8ce1",
+      "smallItemCRC": [
+        2613462655
+      ],
+      "collapsedItemCRC": [
+        3873791994
+      ],
+      "largeItemCRC": [
+        1274639120
+      ],
+      "jumboItemCRC": [
+        477574085
+      ]
+    },
+    {
+      "colorArray": [
+        11386551,
+        1513496,
+        3932085,
+        13748953
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        4,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14614510
+      ],
+      "version": 4,
+      "id": 87,
+      "name": "cé5\u001b+\u00051ÐiÝ\u0000Ë\u001dýéc",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1664977260,
+      "guid": "30b8c174-5f0b-437e-8527-99419f54b2a7",
+      "smallItemCRC": [
+        2590174379
+      ],
+      "collapsedItemCRC": [
+        128103474
+      ],
+      "largeItemCRC": [
+        4196199315
+      ],
+      "jumboItemCRC": [
+        159120681
+      ]
+    },
+    {
+      "colorArray": [
+        5720853,
+        16382457,
+        6641461,
+        10323794
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "shineArray": [
+        16382457
+      ],
+      "version": 2,
+      "id": 88,
+      "name": "Ünü»Ò5a\u0006ýØ'2i\u000b¢ÑÇR",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1680188400,
+      "guid": "881c93cb-ba4c-4152-94ac-465c1a2beb92",
+      "smallItemCRC": [
+        1607724367
+      ],
+      "collapsedItemCRC": [
+        4255021404
+      ],
+      "largeItemCRC": [
+        1080622399
+      ],
+      "jumboItemCRC": [
+        2734403782
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        2587523,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 1,
+      "id": 89,
+      "name": "\u001b^+Qí+\u0013~ ",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1660948320,
+      "guid": "491f7918-b972-4c46-99e1-4e263bdcd066",
+      "smallItemCRC": [
+        3439122501
+      ],
+      "collapsedItemCRC": [
+        1144227850
+      ],
+      "largeItemCRC": [
+        3738564186
+      ],
+      "jumboItemCRC": [
+        2606590639
+      ]
+    },
+    {
+      "colorArray": [
+        16776983,
+        799284,
+        1555889
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8912884
+      ],
+      "version": 1,
+      "id": 90,
+      "name": "åÌsÕRl±ùç\u0015¬\u0005£",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1664947140,
+      "guid": "d389ad0a-b020-4cfc-968a-70c271d015e5",
+      "smallItemCRC": [
+        238284098
+      ],
+      "collapsedItemCRC": [
+        3902495183
+      ],
+      "largeItemCRC": [
+        618239597
+      ],
+      "jumboItemCRC": [
+        1426138254
+      ]
+    },
+    {
+      "colorArray": [
+        16767783,
+        1315353,
+        14834450
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16777215
+      ],
+      "version": 6,
+      "id": 91,
+      "name": "æX2ä Æ+\nÐ\u0005Qu",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1586626740,
+      "guid": "a93a5881-c3b2-427c-b5b2-4c2510e282d0",
+      "smallItemCRC": [
+        654174394
+      ],
+      "collapsedItemCRC": [
+        1132952492
+      ],
+      "largeItemCRC": [
+        325963148
+      ],
+      "jumboItemCRC": [
+        1400812513
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        2587523,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 1,
+      "id": 92,
+      "name": "´££lJ\u0019eº",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1660949100,
+      "guid": "e6e2f125-c413-465c-882f-a3f0228ea55a",
+      "smallItemCRC": [
+        3428001110
+      ],
+      "collapsedItemCRC": [
+        1012031352
+      ],
+      "largeItemCRC": [
+        863713748
+      ],
+      "jumboItemCRC": [
+        3532923450
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        2587523,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 1,
+      "id": 93,
+      "name": "©\u001fØ\u001a¬",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1660949280,
+      "guid": "fb5ed991-cfcf-45aa-9f9b-497a43d3f630",
+      "smallItemCRC": [
+        1566707884
+      ],
+      "collapsedItemCRC": [
+        2756391482
+      ],
+      "largeItemCRC": [
+        1851727551
+      ],
+      "jumboItemCRC": [
+        4115408132
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        2587523,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 1,
+      "id": 94,
+      "name": "f`«ì]\u0011Ì¬",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1660949400,
+      "guid": "3421f9a5-c404-4ef5-9885-c363695df082",
+      "smallItemCRC": [
+        3268235867
+      ],
+      "collapsedItemCRC": [
+        3631616859
+      ],
+      "largeItemCRC": [
+        1590378044
+      ],
+      "jumboItemCRC": [
+        3619909922
+      ]
+    },
+    {
+      "colorArray": [
+        16710400,
+        1973276,
+        452863
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        9295098
+      ],
+      "version": 2,
+      "id": 97,
+      "name": "?.þïÿjwÅX1p\u0000¬ª",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1660949580,
+      "guid": "705bfcde-a099-4a27-aa2b-580469c3c41b",
+      "smallItemCRC": [
+        723806115
+      ],
+      "collapsedItemCRC": [
+        2109090108
+      ],
+      "largeItemCRC": [
+        3949843079
+      ],
+      "jumboItemCRC": [
+        4014934961
+      ]
+    },
+    {
+      "colorArray": [
+        16770048,
+        6292870,
+        10835695
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15453183
+      ],
+      "animatedLayer": 0,
+      "version": 8,
+      "id": 99,
+      "name": "(\u0018\u0018\u0018+ñ\u0014ñÏ\u0018ª\u000f\r\u0010",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "vanityOnly": true,
+      "vanitySubTypeIds": [
+        9,
+        10,
+        11,
+        30,
+        500,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "embargoTime": 1593079200,
+      "guid": "7b687de2-71e3-47b7-a775-f698bb618ad6",
+      "smallItemCRC": [
+        3677621778
+      ],
+      "collapsedItemCRC": [
+        143673636
+      ],
+      "largeItemCRC": [
+        797494237
+      ],
+      "jumboItemCRC": [
+        1061369572
+      ]
+    },
+    {
+      "colorArray": [
+        16640977,
+        7378862
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "shineArray": [
+        16640977
+      ],
+      "animatedLayer": 1,
+      "version": 3,
+      "id": 100,
+      "name": "[«|;p\u0004!üb\u0003Û¬",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "vanityOnly": true,
+      "vanitySubTypeIds": [
+        9,
+        10,
+        11,
+        30,
+        500,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "embargoTime": 1615870800,
+      "guid": "0de232c1-7a37-417e-aa23-da4a8ff5e960",
+      "smallItemCRC": [
+        386230448
+      ],
+      "collapsedItemCRC": [
+        2132024971
+      ],
+      "largeItemCRC": [
+        1395292918
+      ],
+      "jumboItemCRC": [
+        3768097760
+      ]
+    },
+    {
+      "colorArray": [
+        65514,
+        4849811,
+        16646378
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        7733434
+      ],
+      "version": 6,
+      "id": 101,
+      "name": "ð¦{úv$íÙþÓ'\"Ý5¿",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "vanityOnly": true,
+      "vanitySubTypeIds": [
+        9,
+        10,
+        11,
+        30,
+        500,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "embargoTime": 1618444680,
+      "guid": "a0d41efe-9303-49cd-8f9f-bd4e56a46a8e",
+      "smallItemCRC": [
+        2859091642
+      ],
+      "collapsedItemCRC": [
+        1859663504
+      ],
+      "largeItemCRC": [
+        2960973314
+      ],
+      "jumboItemCRC": [
+        120471716
+      ]
+    },
+    {
+      "colorArray": [
+        16448768,
+        10235904,
+        16756224
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16740864
+      ],
+      "version": 6,
+      "id": 102,
+      "name": "·\râÃ¸æ%Þõ»ygcÜ`U",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "vanityOnly": true,
+      "vanitySubTypeIds": [
+        9,
+        10,
+        11,
+        30,
+        500,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "embargoTime": 1618366200,
+      "guid": "e77f87ae-d193-48fe-a3da-170e17a53f67",
+      "smallItemCRC": [
+        2055056132
+      ],
+      "collapsedItemCRC": [
+        2629755524
+      ],
+      "largeItemCRC": [
+        3255695294
+      ],
+      "jumboItemCRC": [
+        4168925436
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        48660
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        45335
+      ],
+      "version": 1,
+      "id": 103,
+      "name": "VqÆÖòr\u0019Õ-",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1654491600,
+      "guid": "0430949f-a62b-46e4-b01e-56db71c81808",
+      "smallItemCRC": [
+        1919422507
+      ],
+      "collapsedItemCRC": [
+        1546233281
+      ],
+      "largeItemCRC": [
+        1716255903
+      ],
+      "jumboItemCRC": [
+        1234190139
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        48660
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "version": 1,
+      "id": 104,
+      "name": "Àgs\u0001Ât\u0015ó±Ç",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1654491600,
+      "guid": "92262148-962d-4ac2-81f3-740dd2c078f1",
+      "smallItemCRC": [
+        1614143895
+      ],
+      "collapsedItemCRC": [
+        1062682791
+      ],
+      "largeItemCRC": [
+        1588834198
+      ],
+      "jumboItemCRC": [
+        124068884
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        48660
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "version": 1,
+      "id": 105,
+      "name": "³¡è ~\u00033èu;¼ËL¹¥¯ñ«",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1654491600,
+      "guid": "e6e4d4a4-ff2c-4c72-acc8-2174e38002f6",
+      "smallItemCRC": [
+        2153229434
+      ],
+      "collapsedItemCRC": [
+        4084170250
+      ],
+      "largeItemCRC": [
+        1679952966
+      ],
+      "jumboItemCRC": [
+        2706991385
+      ]
+    },
+    {
+      "colorArray": [
+        59610,
+        1839706,
+        2324735
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        1204715
+      ],
+      "version": 2,
+      "id": 114,
+      "name": "Æ\u0018¿;k\u0011\u0018\u001a\u0085",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1654491600,
+      "guid": "9459ed72-3f48-472b-b4b7-23e20e40503c",
+      "smallItemCRC": [
+        2721945166
+      ],
+      "collapsedItemCRC": [
+        166144744
+      ],
+      "largeItemCRC": [
+        3894043977
+      ],
+      "jumboItemCRC": [
+        3686446281
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        1380426,
+        15139389
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15007801
+      ],
+      "version": 2,
+      "id": 115,
+      "name": "'\u0012÷\u0017¨­=",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1654491600,
+      "guid": "75cb40d7-a3df-4899-9c08-3fcdafb661d0",
+      "smallItemCRC": [
+        2981682560
+      ],
+      "collapsedItemCRC": [
+        2070214843
+      ],
+      "largeItemCRC": [
+        1959895193
+      ],
+      "jumboItemCRC": [
+        805144234
+      ]
+    },
+    {
+      "colorArray": [
+        16177282,
+        1979437,
+        8070694,
+        8070696,
+        8070695
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        5,
+        0
+      ],
+      "shineArray": [
+        5861986
+      ],
+      "version": 2,
+      "id": 118,
+      "name": "¡Aqo[fìâH\f\u001dJþÄa",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1670263200,
+      "guid": "f608d425-2a09-46bb-ab04-485e0bac8032",
+      "smallItemCRC": [
+        3016765603
+      ],
+      "collapsedItemCRC": [
+        3618923804
+      ],
+      "largeItemCRC": [
+        406141627
+      ],
+      "jumboItemCRC": [
+        3885595647
+      ]
+    },
+    {
+      "colorArray": [
+        15461355,
+        931109,
+        9996645
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15073268
+      ],
+      "version": 1,
+      "id": 120,
+      "name": "õ\u0015Qgqûµ\u001d¸a·¯:ö\u0013@",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1671013320,
+      "guid": "a27cfa25-f8e3-4726-92d9-79db00c5cb1a",
+      "smallItemCRC": [
+        2646400712
+      ],
+      "collapsedItemCRC": [
+        1352527942
+      ],
+      "largeItemCRC": [
+        567822341
+      ],
+      "jumboItemCRC": [
+        2484029298
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        2587523,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 2,
+      "id": 121,
+      "name": "¼â_È×\u0010÷¾\u0006",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1660948860,
+      "guid": "eea3d116-9c8e-4fc6-8c37-07256febe10f",
+      "smallItemCRC": [
+        219922425
+      ],
+      "collapsedItemCRC": [
+        427546998
+      ],
+      "largeItemCRC": [
+        1226272491
+      ],
+      "jumboItemCRC": [
+        4089975728
+      ]
+    },
+    {
+      "colorArray": [
+        16777215
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "shineArray": [
+        16777215
+      ],
+      "animatedLayer": 0,
+      "version": 3,
+      "id": 122,
+      "name": "orm¹\u0001\u001d»¦{",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "vanityOnly": true,
+      "vanitySubTypeIds": [
+        9,
+        10,
+        11,
+        30,
+        500,
+        501,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "embargoTime": 1652569140,
+      "guid": "3d33cc24-ed58-428a-9449-5cebd8c1c908",
+      "smallItemCRC": [
+        4259129557
+      ],
+      "collapsedItemCRC": [
+        2236964038
+      ],
+      "largeItemCRC": [
+        787446791
+      ],
+      "jumboItemCRC": [
+        675453357
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        1118304,
+        6257407,
+        1118306,
+        1118305
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
+        3,
+        0
+      ],
+      "shineArray": [
+        9276671
+      ],
+      "version": 4,
+      "id": 124,
+      "name": "5\u0002×\u001d·e\u0012×",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1655478000,
+      "guid": "60419b3d-e531-4691-8920-c828c47a5586",
+      "smallItemCRC": [
+        1228125687
+      ],
+      "collapsedItemCRC": [
+        3934511456
+      ],
+      "largeItemCRC": [
+        1436590364
+      ],
+      "jumboItemCRC": [
+        4214274156
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        16738560
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16757337
+      ],
+      "version": 4,
+      "id": 125,
+      "name": "Ñ\t¸HwÕ\u00187",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1654628400,
+      "guid": "844cf468-2581-4c71-8bb3-b27880eeb0ea",
+      "smallItemCRC": [
+        1854195185
+      ],
+      "collapsedItemCRC": [
+        2433936905
+      ],
+      "largeItemCRC": [
+        2694720093
+      ],
+      "jumboItemCRC": [
+        840425796
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        0,
+        48660
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        45335
+      ],
+      "version": 2,
+      "id": 126,
+      "name": "<RÅÉ±\u0007\u0012hã",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1654492200,
+      "guid": "69178685-9155-463c-a5f8-cc54e65ccc89",
+      "smallItemCRC": [
+        2524335585
+      ],
+      "collapsedItemCRC": [
+        2532884851
+      ],
+      "largeItemCRC": [
+        492447014
+      ],
+      "jumboItemCRC": [
+        3650716628
+      ]
+    },
+    {
+      "colorArray": [
+        15658724,
+        9049400,
+        16711756
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16656744
+      ],
+      "version": 1,
+      "id": 128,
+      "name": "\u001dÙ_x­P\f.ÞËVküñ",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1667254920,
+      "guid": "4ab62d14-c970-4f5b-aeeb-140a8f949695",
+      "smallItemCRC": [
+        863298567
+      ],
+      "collapsedItemCRC": [
+        1725408731
+      ],
+      "largeItemCRC": [
+        3969361738
+      ],
+      "jumboItemCRC": [
+        3000065050
+      ]
+    },
+    {
+      "colorArray": [
+        5720853,
+        16382457,
+        10324311
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "shineArray": [
+        14998730
+      ],
+      "version": 1,
+      "id": 129,
+      "name": "ØóW£Ø²\u0001Ýí}Kú8å",
+      "levels": false,
+      "shell": 2,
+      "bigHead": true,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667259000,
+      "guid": "8f9c25cf-bc92-42a8-9d5d-df28955696c4",
+      "smallItemCRC": [
+        2883704540
+      ],
+      "collapsedItemCRC": [
+        737172873
+      ],
+      "largeItemCRC": [
+        2346684871
+      ],
+      "jumboItemCRC": [
+        2263494355
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        6426407,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 2,
+      "id": 130,
+      "name": "\u0015f\u001b\u0007GÒ\u0003Dé-éTî-).\u0007L9",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667559480,
+      "guid": "4209696b-23f2-4031-99ac-ca4ce181749a",
+      "smallItemCRC": [
+        3238855949
+      ],
+      "collapsedItemCRC": [
+        4024883315
+      ],
+      "largeItemCRC": [
+        237260761
+      ],
+      "jumboItemCRC": [
+        3407130455
+      ]
+    },
+    {
+      "colorArray": [
+        15658724,
+        4720415,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16330847
+      ],
+      "version": 1,
+      "id": 131,
+      "name": "\u0001ÏÚUñÒ\u0003\u0006ö±0#¤Ìj",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": true,
+      "embargoTime": 1667650680,
+      "guid": "56a0a839-95f2-4073-8691-6357c5be19c8",
+      "smallItemCRC": [
+        3137046637
+      ],
+      "collapsedItemCRC": [
+        4158557407
+      ],
+      "largeItemCRC": [
+        3138681024
+      ],
+      "jumboItemCRC": [
+        3794875892
+      ]
+    },
+    {
+      "colorArray": [
+        5570661,
+        16314078,
+        7492538
+      ],
+      "expColorIndices": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        1,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        1,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        1,
+        0
+      ],
+      "shineArray": [
+        14811131
+      ],
+      "version": 1,
+      "id": 132,
+      "name": "$_ÎÙ\u00034Î\u0004ON\u0016\b,àG ]",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1666922820,
+      "guid": "284bf633-aaf9-4041-be24-1c3977780cb4",
+      "smallItemCRC": [
+        4135599511
+      ],
+      "collapsedItemCRC": [
+        1470062800
+      ],
+      "largeItemCRC": [
+        1840977206
+      ],
+      "jumboItemCRC": [
+        1066349211
+      ]
+    },
+    {
+      "colorArray": [
+        16770169,
+        4268289,
+        13003276
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14393187
+      ],
+      "version": 1,
+      "id": 133,
+      "name": "\u0013Ï\u0015ËÎ\u0002LúhK\u000f\u0001È´(",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667260620,
+      "guid": "44eebd79-afee-4139-8a48-036a73a7d15b",
+      "smallItemCRC": [
+        936807238
+      ],
+      "collapsedItemCRC": [
+        2616458120
+      ],
+      "largeItemCRC": [
+        4190605820
+      ],
+      "jumboItemCRC": [
+        1657131528
+      ]
+    },
+    {
+      "colorArray": [
+        16632063,
+        1582654,
+        454911
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        13100285
+      ],
+      "version": 3,
+      "id": 134,
+      "name": "©\u0011HúÆó\u001cÍù#ò",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1677087840,
+      "guid": "ef5006ae-87a0-45ed-bf76-a6b2f02f51c7",
+      "smallItemCRC": [
+        804167138
+      ],
+      "collapsedItemCRC": [
+        1392823506
+      ],
+      "largeItemCRC": [
+        203887021
+      ],
+      "jumboItemCRC": [
+        1616066874
+      ]
+    },
+    {
+      "colorArray": [
+        16645946,
+        2366790,
+        4716723
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16765437
+      ],
+      "version": 2,
+      "id": 135,
+      "name": "YqÒ\u001c,9|åê\u0005\u000eÌÏ9l",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1677088560,
+      "guid": "1f10eda6-7d5f-405c-a3bf-512e84aafd56",
+      "smallItemCRC": [
+        4276833889
+      ],
+      "collapsedItemCRC": [
+        1666113387
+      ],
+      "largeItemCRC": [
+        835075839
+      ],
+      "jumboItemCRC": [
+        2659227033
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        2587523,
+        54202
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8452589
+      ],
+      "version": 1,
+      "id": 138,
+      "name": "E\u0011öøv\tnéÔI¨=",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1670577420,
+      "guid": "127e84fe-9c56-4a1b-99f4-1dc5fc6929eb",
+      "smallItemCRC": [
+        2934751468
+      ],
+      "collapsedItemCRC": [
+        1459854999
+      ],
+      "largeItemCRC": [
+        3905626407
+      ],
+      "jumboItemCRC": [
+        142297205
+      ]
+    },
+    {
+      "colorArray": [
+        53175,
+        5570661,
+        16760576,
+        251711415
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        4,
+        1,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        12214258
+      ],
+      "version": 1,
+      "id": 139,
+      "name": "\u0019I5,ÿ=\u000eÏÚ:\u0004ÊìÐ!\u0006\u0010\u0003",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1668701700,
+      "guid": "4e264740-9b1d-4dba-aa1a-d1fa65aecca4",
+      "smallItemCRC": [
+        1969244282
+      ],
+      "collapsedItemCRC": [
+        824453203
+      ],
+      "largeItemCRC": [
+        3779970977
+      ],
+      "jumboItemCRC": [
+        296808178
+      ]
+    },
+    {
+      "colorArray": [
+        9049400,
+        16623872,
+        15658724
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16768394
+      ],
+      "version": 1,
+      "id": 145,
+      "name": "ø6±±\"~\t}ÙîßTÂ\u000bþÜ",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1669283700,
+      "guid": "af59c3dd-465e-4a08-a9ce-ccab3bb0629b",
+      "smallItemCRC": [
+        123786770
+      ],
+      "collapsedItemCRC": [
+        2708969910
+      ],
+      "largeItemCRC": [
+        2086950062
+      ],
+      "jumboItemCRC": [
+        491164406
+      ]
+    },
+    {
+      "colorArray": [
+        15461355,
+        7954141,
+        5961692
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16052735
+      ],
+      "version": 1,
+      "id": 146,
+      "name": "¶£\u0005ÆH\u0003\u000fÙä\u001aqÐ`Gq«",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1669915620,
+      "guid": "d8d9d169-a268-407a-a9c4-4a19b50e281c",
+      "smallItemCRC": [
+        869980471
+      ],
+      "collapsedItemCRC": [
+        1301786546
+      ],
+      "largeItemCRC": [
+        572538929
+      ],
+      "jumboItemCRC": [
+        2268758159
+      ]
+    },
+    {
+      "colorArray": [
+        15658724,
+        1114370,
+        9669515
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        8223614
+      ],
+      "version": 2,
+      "id": 148,
+      "name": "\réC¼y\u0001 ó/iÕDýIÇ-è",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1668639540,
+      "guid": "5a86fc2f-d859-4255-830f-3abd2b8a2da8",
+      "smallItemCRC": [
+        2066039865
+      ],
+      "collapsedItemCRC": [
+        3608138
+      ],
+      "largeItemCRC": [
+        252039444
+      ],
+      "jumboItemCRC": [
+        1107316625
+      ]
+    },
+    {
+      "colorArray": [
+        15658724,
+        7738929,
+        53175
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16755135
+      ],
+      "version": 1,
+      "id": 149,
+      "name": "ýý(r\r\u0005¶ï#Uú\t§Ý¯\u0014zX5",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1668640020,
+      "guid": "aae08f44-162d-46c3-9fb0-d24b3a8d6dc8",
+      "smallItemCRC": [
+        3104716828
+      ],
+      "collapsedItemCRC": [
+        2723101256
+      ],
+      "largeItemCRC": [
+        1520059445
+      ],
+      "jumboItemCRC": [
+        198993572
+      ]
+    },
+    {
+      "colorArray": [
+        15853810,
+        2432555,
+        9911433
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16772604
+      ],
+      "version": 1,
+      "id": 150,
+      "name": "h±Å \u000fF!ÙæF8ê",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1664382300,
+      "guid": "2cc8abc1-622f-42f9-a233-57990c72bf7f",
+      "smallItemCRC": [
+        313519742
+      ],
+      "collapsedItemCRC": [
+        2559214626
+      ],
+      "largeItemCRC": [
+        1225734008
+      ],
+      "jumboItemCRC": [
+        2539064101
+      ]
+    },
+    {
+      "colorArray": [
+        16775396,
+        11492412,
+        16770217
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16106653
+      ],
+      "version": 1,
+      "id": 151,
+      "name": "Þbryá*\búÁ",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1667310840,
+      "guid": "9d273c2d-b478-41b5-8f8a-a54ffa8fce25",
+      "smallItemCRC": [
+        4026031001
+      ],
+      "collapsedItemCRC": [
+        2480300525
+      ],
+      "largeItemCRC": [
+        3044371300
+      ],
+      "jumboItemCRC": [
+        137711722
+      ]
+    },
+    {
+      "colorArray": [
+        7880980,
+        13422550,
+        6571554
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14079199
+      ],
+      "version": 6,
+      "id": 152,
+      "name": "ñXÍ0%)5\u0017Ñ.êµ+0Y\u001eù",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1678978920,
+      "guid": "b70d9910-6740-4763-b94a-8bcc0b791a51",
+      "smallItemCRC": [
+        2391598726
+      ],
+      "collapsedItemCRC": [
+        1352660367
+      ],
+      "largeItemCRC": [
+        1938385552
+      ],
+      "jumboItemCRC": [
+        494706289
+      ]
+    },
+    {
+      "colorArray": [
+        6707254,
+        13555925,
+        6571554
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15002853
+      ],
+      "version": 2,
+      "id": 153,
+      "name": "ì»Cs/)¿àU´Â)Å\u0004¾ð¿",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1686585600,
+      "guid": "bff1da33-165c-41d6-8621-d1b05ae54dfd",
+      "smallItemCRC": [
+        780028048
+      ],
+      "collapsedItemCRC": [
+        1047802672
+      ],
+      "largeItemCRC": [
+        2848107290
+      ],
+      "jumboItemCRC": [
+        1156796738
+      ]
+    },
+    {
+      "colorArray": [
+        16767893,
+        12724836,
+        11370332,
+        16709317
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "shineArray": [
+        16759014
+      ],
+      "version": 1,
+      "id": 154,
+      "name": "ë^G\u0017kB\u0013ÅÛD¯",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1689843600,
+      "guid": "ad0b1343-2207-40b7-8d1a-a92bf7dc09c7",
+      "smallItemCRC": [
+        3971463586
+      ],
+      "collapsedItemCRC": [
+        2364152814
+      ],
+      "largeItemCRC": [
+        4146004612
+      ],
+      "jumboItemCRC": [
+        1604107864
+      ]
+    },
+    {
+      "colorArray": [
+        5720853,
+        6641461,
+        16382457,
+        10323794
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        0
+      ],
+      "shineArray": [
+        16382457
+      ],
+      "version": 1,
+      "id": 155,
+      "name": "\f´RS\u000e\"\r\u001dü",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1673951760,
+      "guid": "58fb060a-2e6b-4e52-b232-6fd25e9747c2",
+      "smallItemCRC": [
+        1186677087
+      ],
+      "collapsedItemCRC": [
+        1647680489
+      ],
+      "largeItemCRC": [
+        1261116712
+      ],
+      "jumboItemCRC": [
+        1656076344
+      ]
+    },
+    {
+      "colorArray": [
+        4602124,
+        14003772,
+        10191155
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16775134
+      ],
+      "version": 1,
+      "id": 156,
+      "name": "\r\u0004F\u0016`K8­ÅMXu",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1669654140,
+      "guid": "456d3562-0f39-418d-882c-33ef07ff0d70",
+      "smallItemCRC": [
+        4036639278
+      ],
+      "collapsedItemCRC": [
+        1440899752
+      ],
+      "largeItemCRC": [
+        3261193985
+      ],
+      "jumboItemCRC": [
+        1881680664
+      ]
+    },
+    {
+      "colorArray": [
+        16772752,
+        4327946,
+        12325137
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "version": 2,
+      "id": 159,
+      "name": "³\"\n(\u0002\u0013!Þ¬ªm×\u0007x\u000f¡$",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1682355600,
+      "guid": "f5775e08-417b-40f9-aec5-c503a4272c40",
+      "smallItemCRC": [
+        3213579968
+      ],
+      "collapsedItemCRC": [
+        1720867864
+      ],
+      "largeItemCRC": [
+        2955102044
+      ],
+      "jumboItemCRC": [
+        418740293
+      ]
+    },
+    {
+      "colorArray": [
+        16310008,
+        5379170,
+        13381073
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        16706303
+      ],
+      "version": 1,
+      "id": 160,
+      "name": "¶\u0015ÙðSxckÀièáu*\u0013ÑNv&V",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1674754500,
+      "guid": "f060ad85-211d-4338-b4ec-1b9bb2b2024b",
+      "smallItemCRC": [
+        4140848531
+      ],
+      "collapsedItemCRC": [
+        480188465
+      ],
+      "largeItemCRC": [
+        3940190207
+      ],
+      "jumboItemCRC": [
+        3674560236
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        731932,
+        4520584
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14090201
+      ],
+      "version": 1,
+      "id": 161,
+      "name": "\u0085ª9·`,pù530",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1686132000,
+      "guid": "d6f6cb49-d213-4419-9f41-56ff4311f778",
+      "smallItemCRC": [
+        300655710
+      ],
+      "collapsedItemCRC": [
+        718824562
+      ],
+      "largeItemCRC": [
+        1126217494
+      ],
+      "jumboItemCRC": [
+        2342130553
+      ]
+    },
+    {
+      "colorArray": [
+        13638718,
+        16774392,
+        16722258,
+        16753332
+      ],
+      "expColorIndices": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        4,
+        0
+      ],
+      "shineArray": [
+        16252927
+      ],
+      "version": 1,
+      "id": 162,
+      "name": "S%·\u0017\u001aØ3Kìm¢ö-\u000b¬³e\u0003Ãc7Ú$Q",
+      "levels": false,
+      "shell": 0,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1678813200,
+      "guid": "1570e337-58b1-413f-8409-c38f0d58dbd2",
+      "smallItemCRC": [
+        355848224
+      ],
+      "collapsedItemCRC": [
+        3892286856
+      ],
+      "largeItemCRC": [
+        3247300432
+      ],
+      "jumboItemCRC": [
+        2612830314
+      ]
+    },
+    {
+      "colorArray": [
+        16775931,
+        2825762,
+        11738998
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15793919
+      ],
+      "version": 1,
+      "id": 163,
+      "name": "¥V­^f/~üÁ1",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1678453860,
+      "guid": "e303d28d-1c07-4312-99b3-42ffa77aa7d1",
+      "smallItemCRC": [
+        1633554161
+      ],
+      "collapsedItemCRC": [
+        1036828037
+      ],
+      "largeItemCRC": [
+        2747863384
+      ],
+      "jumboItemCRC": [
+        516417071
+      ]
+    },
+    {
+      "colorArray": [
+        16767893,
+        12724836,
+        11370332,
+        16709317
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4,
+        0
+      ],
+      "shineArray": [
+        16759014
+      ],
+      "version": 1,
+      "id": 164,
+      "name": "\u000b~f¿K|*¦ø\u0015\u001aå©7",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1689584400,
+      "guid": "5b0c03d2-2209-4786-be40-4eb1e072c6c0",
+      "smallItemCRC": [
+        1191457160
+      ],
+      "collapsedItemCRC": [
+        3278348864
+      ],
+      "largeItemCRC": [
+        1052645856
+      ],
+      "jumboItemCRC": [
+        3399739489
+      ]
+    },
+    {
+      "colorArray": [
+        16449535,
+        419689,
+        1162390
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15859708
+      ],
+      "version": 2,
+      "id": 165,
+      "name": "'Ü²£Î%öCGl%þ^Û",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1688551200,
+      "guid": "77aed7ce-a7e7-48af-ba26-310949de0bab",
+      "smallItemCRC": [
+        1826770968
+      ],
+      "collapsedItemCRC": [
+        2757220577
+      ],
+      "largeItemCRC": [
+        2783312712
+      ],
+      "jumboItemCRC": [
+        3508425502
+      ]
+    },
+    {
+      "colorArray": [
+        16777215,
+        731932,
+        4520584
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14090201
+      ],
+      "version": 1,
+      "id": 166,
+      "name": "ÈÀ\"§Ç$\u0011Ó\tOìiÄLþÀ=½",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1686134700,
+      "guid": "98f6a54f-ceb2-4931-8061-2e9ce91aac25",
+      "smallItemCRC": [
+        1724329598
+      ],
+      "collapsedItemCRC": [
+        3436902178
+      ],
+      "largeItemCRC": [
+        3506980394
+      ],
+      "jumboItemCRC": [
+        1316186795
+      ]
+    },
+    {
+      "colorArray": [
+        16449535,
+        419689,
+        1162390
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15859708
+      ],
+      "version": 1,
+      "id": 167,
+      "name": "ñ\u0019¯|ú#\u00102",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": false,
+      "embargoTime": 1688551200,
+      "guid": "bd7cd919-9603-4542-898e-02499c548c50",
+      "smallItemCRC": [
+        1580194537
+      ],
+      "collapsedItemCRC": [
+        1373512197
+      ],
+      "largeItemCRC": [
+        1356772454
+      ],
+      "jumboItemCRC": [
+        4038903000
+      ]
+    },
+    {
+      "colorArray": [
+        11386551,
+        1513496,
+        3932085,
+        13748953
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        4,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        14614510
+      ],
+      "version": 1,
+      "id": 168,
+      "name": ",\u0007ñ¶ï\n\u000b¦Úác«Ç@Ä±\u0016'ØÙ,(è",
+      "levels": false,
+      "shell": 1,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1680013920,
+      "guid": "de6349bc-f3ad-4547-8689-9016caa36082",
+      "smallItemCRC": [
+        4094251588
+      ],
+      "collapsedItemCRC": [
+        372615242
+      ],
+      "largeItemCRC": [
+        1980346247
+      ],
+      "jumboItemCRC": [
+        253257939
+      ]
+    },
+    {
+      "colorArray": [
+        5720853,
+        6641461,
+        16382457,
+        10323794
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        0
+      ],
+      "shineArray": [
+        16382457
+      ],
+      "version": 1,
+      "id": 170,
+      "name": "x7\n­m.ÕrC#\u0012ñ",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": false,
+      "hide": true,
+      "embargoTime": 1686062400,
+      "guid": "1dc57b2a-fa04-40f6-b000-634a66e89c51",
+      "smallItemCRC": [
+        36113879
+      ],
+      "collapsedItemCRC": [
+        11629225
+      ],
+      "largeItemCRC": [
+        1776774317
+      ],
+      "jumboItemCRC": [
+        3401020465
+      ]
+    },
+    {
+      "colorArray": [
+        6570392,
+        13880790,
+        4598641
+      ],
+      "expColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "collColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "smallColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "shineArray": [
+        15395062
+      ],
+      "version": 1,
+      "id": 171,
+      "name": "òöK\u0007¯\t\u0012/æxÑ$Gn",
+      "levels": false,
+      "shell": 2,
+      "bigHead": false,
+      "untradableOnly": true,
+      "hide": false,
+      "embargoTime": 1690192800,
+      "guid": "b1b91d42-fd29-417b-a72a-bd98670820b2",
+      "smallItemCRC": [
+        3168045873
+      ],
+      "collapsedItemCRC": [
+        1922588486
+      ],
+      "largeItemCRC": [
+        3189617599
+      ],
+      "jumboItemCRC": [
+        188881950
+      ]
+    }
+  ]
+}

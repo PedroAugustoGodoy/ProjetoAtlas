@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatchImpl>
+  <PatchInfoURL>Buzz.eaPatchInfo</PatchInfoURL>
+  <PatchId>Buzz</PatchId>
+  <PatchClass></PatchClass>
+  <Required>false</Required>
+  <PatchImplURL L="*_*">32969a34-8bea-42ee-a51f-d498159b85e8/Buzz.eaPatchImpl</PatchImplURL>
+  <PatchName L="en_us">Your Patch 1 (this is a optional field)</PatchName>
+  <PatchDescription L="en_us">Description for Your Patch 1. Can be text, HTML, or a URL. (this is a optional field)</PatchDescription>
+  <AppId></AppId>
+  <ReleaseDate></ReleaseDate>
+  <PatchBaseDirectory>Buzz</PatchBaseDirectory>
+  <UserInfo>{&quot;area&quot;: [&quot;fut&quot;], &quot;required&quot;: true}</UserInfo>
+  <UserChecksum></UserChecksum>
+  <FinalFileSizeUsage>3292</FinalFileSizeUsage>
+  <FinalDiskSpaceUsage>12288</FinalDiskSpaceUsage>
+  <IntermediateDiskSpaceUsage>15600</IntermediateDiskSpaceUsage>
+  <PatchHash></PatchHash>
+  <PreRunScript></PreRunScript>
+  <PostRunScript></PostRunScript>
+  <UsedFileArray flags="UnixPath">*.toc</UsedFileArray>
+  <UsedFileArray flags="UnixPath">*.cas</UsedFileArray>
+  <PatchEntry>
+    <File>true</File>
+    <ForceOverwrite>false</ForceOverwrite>
+    <FileUnchanged>false</FileUnchanged>
+    <FileURL>32969a34-8bea-42ee-a51f-d498159b85e8/layout.toc</FileURL>
+    <RelativePath>layout.toc</RelativePath>
+    <AccessRights></AccessRights>
+    <FileSize>1103</FileSize>
+    <FileHashValue>b7e1c7fa87bc920bb669aa6d6fb1f1de</FileHashValue>
+    <DiffFileURL>32969a34-8bea-42ee-a51f-d498159b85e8/layout.toc.eaPatchDiff</DiffFileURL>
+  </PatchEntry>
+  <PatchEntry>
+    <File>true</File>
+    <ForceOverwrite>false</ForceOverwrite>
+    <FileUnchanged>false</FileUnchanged>
+    <FileURL>32969a34-8bea-42ee-a51f-d498159b85e8/Win32\scu\buzz.toc</FileURL>
+    <RelativePath>Win32\scu\buzz.toc</RelativePath>
+    <AccessRights></AccessRights>
+    <FileSize>1040</FileSize>
+    <FileHashValue>e6d11a2a8b92aad8ca3323ac51eda007</FileHashValue>
+    <DiffFileURL>32969a34-8bea-42ee-a51f-d498159b85e8/Win32\scu\buzz.toc.eaPatchDiff</DiffFileURL>
+  </PatchEntry>
+  <PatchEntry>
+    <File>true</File>
+    <ForceOverwrite>false</ForceOverwrite>
+    <FileUnchanged>false</FileUnchanged>
+    <FileURL>32969a34-8bea-42ee-a51f-d498159b85e8/Win32\scu\buzz\installpackage\cas_01.cas</FileURL>
+    <RelativePath>Win32\scu\buzz\installpackage\cas_01.cas</RelativePath>
+    <AccessRights></AccessRights>
+    <FileSize>1149</FileSize>
+    <FileHashValue>1c5b916038a444d8aa82833dd8b41cfe</FileHashValue>
+    <DiffFileURL>32969a34-8bea-42ee-a51f-d498159b85e8/Win32\scu\buzz\installpackage\cas_01.cas.eaPatchDiff</DiffFileURL>
+  </PatchEntry>
+</PatchImpl>
